@@ -1,3 +1,4 @@
 #Oracle Cloud Infrastructure 2025 Generative AI Professional (1Z0-1127-25):
+
 This certification validates expertise in building and deploying Generative AI applications using Oracle Cloud Infrastructure (OCI). It is designed for software developers, AI/ML engineers, and GenAI professionals with foundational knowledge of machine learning, deep learning, and Python. The exam covers key topics such as Large Language Model (LLM) architecture, Retrieval-Augmented Generation (RAG), LangChain integration, prompt engineering, and deploying AI solutions using OCI Generative AI services.
 Verification Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=CEDFB0AA52CB0A5BE2CD3334514926D617B045AD15A80FF1E2193BCBCF29FCBF
